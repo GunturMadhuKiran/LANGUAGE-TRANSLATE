@@ -32,9 +32,6 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/voice-to-text-translation.git
-cd voice-to-text-translation
-
 Install the required libraries:
 
 pip install -r requirements.txt
